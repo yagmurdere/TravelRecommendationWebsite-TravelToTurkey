@@ -1,5 +1,5 @@
----------------A website that recommends places to visit, region by region, for people who want to travel around Turkey.---------------------------
-main.php = clickable map page
+A website that recommends places to visit, region by region, for people who want to travel around Turkey.
+
 
 ![Ekran görüntüsü 2024-05-28 224218](https://github.com/yagmurdere/TravelRecommendationWebsite-TravelToTurkey/assets/127977948/582b3845-9d34-41a3-8a8a-e2f72517e23b)
 
